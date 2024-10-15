@@ -54,7 +54,10 @@ My journey in computer science has led me to develop a passion for cybersecurity
 <img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" /> -->
 <!-- <img src="https://img.shields.io/badge/Google-Cybersecurity%20Certificate-blue?style=for-the-badge&logo=google&logoColor=white" /> -->
-<img src="https://img.shields.io/badge/Google-Cybersecurity%20Certificate-white?style=for-the-badge&logo=google&logoColor=red&labelColor=4285F4&color=34A853" />
+<!-- <img src="https://img.shields.io/badge/Google-Cybersecurity%20Certificate-white?style=for-the-badge&logo=google&logoColor=red&labelColor=4285F4&color=34A853" /> -->
+<img src="https://img.shields.io/badge/Google-Cybersecurity%20Certificate-white?style=for-the-badge&logo=google&logoColor=FBBC05&labelColor=4285F4&color=34A853" />
+<img src="https://img.shields.io/badge/Cisco-Introduction%20to%20Cybersecurity-white?style=for-the-badge&logo=cisco&logoColor=white&labelColor=1BA0D7&color=black" />
+
 
     
 </div>
