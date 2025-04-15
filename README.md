@@ -3,11 +3,11 @@
 
 
 
-I am a recent graduate with a profound interest in cybersecurity and a dedication to solving complex problems.
+Curious cybersecurity graduate building skills through CTFs (Hack The Box), home labs, and academic projects. Eager to contribute fresh perspectives to security teams
 
 ## Objective
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+My journey in Informatics has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
 ## Skills
 
