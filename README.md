@@ -29,12 +29,12 @@ My journey in computer science has led me to develop a passion for cybersecurity
     <img src="https://img.shields.io/badge/-Nmap-4D4DFF?style=for-the-badge&logo=Nmap&logoColor=white" />
     <img src="https://img.shields.io/badge/-Burp_Suite-000000?style=for-the-badge&logo=Burp-Suite&logoColor=white" />
     
-    <!-- Defensive Security -->
+    <!-- Defensive Security 
     <img src="https://img.shields.io/badge/-Splunk-000000?style=for-the-badge&logo=Splunk&logoColor=white" />
     <img src="https://img.shields.io/badge/-Snort-FF0000?style=for-the-badge&logo=Snort&logoColor=white" />
     
-    <!-- IAM/Compliance -->
-    <img src="https://img.shields.io/badge/-Okta-007DC1?style=for-the-badge&logo=Okta&logoColor=white" />
+     IAM/Compliance 
+    <img src="https://img.shields.io/badge/-Okta-007DC1?style=for-the-badge&logo=Okta&logoColor=white" /> -->
 </div>
 
 ### Network
